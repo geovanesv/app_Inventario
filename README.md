@@ -1,5 +1,4 @@
-# Sistema de Inventário com Funcionalidades Avançadas
-
+# Sistema Controle de Inventário
 Bem-vindo ao sistema de inventário, uma aplicação que tem funcionalidades para gerenciar uma loja. Desenvolvido com as tecnologias avançadas, este sistema proporciona uma experiência intuitiva e eficaz para o controle completo do seu inventário. Abaixo, destacamos algumas das funcionalidades e as tecnologias utilizadas:
 
 ## Funcionalidades Principais
@@ -12,7 +11,7 @@ Bem-vindo ao sistema de inventário, uma aplicação que tem funcionalidades par
 
 4. **Vendas:** Registre vendas de forma fácil e rápida, acompanhando o desempenho dos produtos e garantindo um controle financeiro preciso.
 
-5. **Relatórios:** Acesse relatórios Geral por meio de gráficos na Dashboard mostrando os ganhos, gastos e total de produtos.
+5. **Visão Geral:** Tenha uma visão Geral por meio de gráficos na Dashboard mostrando os ganhos, gastos e total de produtos.
 
 ## Tecnologias Utilizadas
 
