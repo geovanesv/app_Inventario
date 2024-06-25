@@ -1,6 +1,9 @@
 # Sistema Controle de Inventário
 Bem-vindo ao sistema de inventário, uma aplicação que tem funcionalidades para gerenciar uma loja. Desenvolvido com as tecnologias avançadas, este sistema proporciona uma experiência intuitiva e eficaz para o controle completo do seu inventário. Abaixo, destacamos algumas das funcionalidades e as tecnologias utilizadas:
 
+![app_inventario](https://github.com/geovanesv/app_Inventario/assets/49567926/ef281b5c-2493-4a7b-969c-0c922da839de)
+
+
 ## Funcionalidades Principais
 
 1. **Gerenciamento de Loja:** Permite o cadastramento de lojas, que fornecerão os produtos para compra ou venda.
